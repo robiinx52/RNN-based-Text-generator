@@ -1,2 +1,2 @@
 # RNN-based-Text-generator
-A RNN  LSTM model to generate text. 
+A RNN  LSTM model to generate text using Keras 
